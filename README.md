@@ -14,3 +14,13 @@ A programming language that is created for fun, for code obfuscation or as an ex
 ```
 
 How the fuck does Brainfuck work? I have no clue, but maybe [this guy](https://stackoverflow.com/questions/16836860/how-does-the-brainfuck-hello-world-actually-work) does.
+
+### Programming is an Art, literally
+
+All of these images are actually hello world programs written in [PIET](https://esolangs.org/wiki/piet) language.  
+_"A programming language in which programs look like abstract paintings."_  
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; - [David Morgan-Mar](https://www.dangermouse.net/esoteric/piet.html), Creator of PIET
+
+![](assets/piet_imgs/HelloWorld.png) ![](assets/piet_imgs/Artistic%20HelloWorld.gif) ![](assets/piet_imgs/Artistic%20HelloWorld%202.gif)  
+![](assets/piet_imgs/Mondarian%20HelloWorld.png) ![](assets/piet_imgs/Fancy%20HelloWorld.png)  
+![](assets/piet_imgs/Artistic%20HelloWorld%203.gif)  
