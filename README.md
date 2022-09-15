@@ -1,6 +1,6 @@
 # Esolang Adventures
 
-🐱‍👤 Fairly mind-boggling programs coded in various equally mind-boggling esoteric languages. I was very happy and stress-free, so I decided some torture is obviously needed in my life. Here I will try to dabble in esoteric languages like Brainfuck, L33T, Cow, PIET, JSFuck, and the likes.
+👨‍💻 Fairly mind-boggling programs coded in various equally mind-boggling esoteric languages. I was very happy and stress-free, so I decided some torture is obviously needed in my life. Here I will try to dabble in esoteric languages like Brainfuck, L33T, Cow, PIET, JSFuck, and the likes.
 
 ### What are esoteric languages?
 
